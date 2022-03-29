@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm Jeonguk Hur
+### Hi there 👋 , I'm Jeonguk Hur and iOS Developer
 ***
 ### Resume
 - [Jeonguk's Resume 2022](https://johnjeongukhur.notion.site/iOS-07e4e47f0a8f40bbac8fd7259ae8cd41)
