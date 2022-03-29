@@ -1,5 +1,9 @@
 ### Hi there 👋 , I'm Jeonguk Hur
 ***
+### Resume
+- [Jeonguk's Resume 2022](https://johnjeongukhur.notion.site/iOS-07e4e47f0a8f40bbac8fd7259ae8cd41)
+
+***
 ### My Project
 - [footofoot](https://github.com/johnjeongukhur/footofoot_portfolio)
   - 산책로 커스터마이징 서비스
