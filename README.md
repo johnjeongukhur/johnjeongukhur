@@ -1,10 +1,5 @@
 ### Hi there 👋 , I'm Jeonguk Hur and iOS Developer
 
-***
-### My Project
-- [footofoot](https://github.com/johnjeongukhur/footofoot_portfolio)
-  - 산책로 커스터마이징 서비스
-
 
 
 ***
